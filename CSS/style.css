@@ -1,0 +1,27 @@
+.conteiner{
+    width: 1600px;
+    height: 800px;
+    background-color:gray;
+
+}.contBl{
+    display: flex;
+    justify-content: center;
+}
+.contNg{
+    display: flex;
+    justify-content: center;
+}
+.negras{
+    width: 100px;
+    height: 150px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-color: #ffffff;
+}
+.blancas{
+    width: 100px;
+    height: 300px;
+    color: rgb(0, 0, 0);
+    background-color: antiquewhite;
+    border-color: #000;
+}
