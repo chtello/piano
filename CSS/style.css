@@ -4,6 +4,7 @@
     background-color:gray;
 
 }.contBl{
+    margin-top: 50px;
     display: flex;
     justify-content: center;
 }
@@ -11,22 +12,108 @@
     display: flex;
     justify-content: center;
 }
-.negras{
-    width: 100px;
-    height: 150px;
-    color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
-    border-color: #ffffff;
-}
+
 .blancas{
+    position: relative;
     width: 100px;
     height: 300px;
     color: rgb(0, 0, 0);
     background-color: antiquewhite;
     border-color: #000;
 }
+
+.negra1{
+    margin-top: 50px;
+    position: absolute;
+    z-index: 1;
+    left: 475px;
+    width: 50px;
+    height: 120px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-color: #000000;
+}
+.negra2{
+    margin-top: 50px;
+    position: absolute;
+    z-index: 1;
+    left: 575px;
+    width: 50px;
+    height: 120px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-color: #000000;
+}
+.negra3{
+    margin-top: 50px;
+    position: absolute;
+    z-index: 1;
+    left: 775px;
+    width: 50px;
+    height: 120px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-color: #000000;
+}
+.negra4{
+    margin-top: 50px;
+    position: absolute;
+    z-index: 1;
+    left: 875px;
+    width: 50px;
+    height: 120px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-color: #000000;
+}
+.negra5{
+    margin-top: 50px;
+    position: absolute;
+    z-index: 1;
+    left: 975px;
+    width: 50px;
+    height: 120px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-color: #000000;
+}
+.negra6{
+    margin-top: 50px;
+    position: absolute;
+    z-index: 1;
+    left: 1165px;
+    width: 35px;
+    height: 120px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-color: #000000;
+}
+.ContBut{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
 .inicio{
-    width: 160px;
-    height: 80px;
+    position: relative;
+    margin-top: 60px;
+    width: 180px;
+    height: 100px;
+    left: 130px;
     background-color: rgb(107, 40, 40);
+}
+.CelectEsc{
+    position: relative;
+    margin-top: 150px;
+    right: 600px;
+    width: 250px;
+    height: 60px;
+    background-color: rgb(40, 71, 107);
+}
+.CelectNot{
+    position: absolute;
+    margin-top: -60px;
+    left: 1200px;
+    width: 250px;
+    height: 60px;
+    background-color: rgb(40, 71, 107);
 }
