@@ -93,34 +93,18 @@
     justify-content: center;
     margin-top: 50px;
 }
-.inicio{
-    position: relative;
-    margin-top: 60px;
-    width: 180px;
-    height: 100px;
-    left: 130px;
-    background-color: rgb(107, 40, 40);
-}
-.CelectEsc{
-    position: relative;
-    margin-top: 150px;
-    right: 600px;
-    width: 250px;
-    height: 60px;
-    background-color: rgb(40, 71, 107);
-}
 .CelectNot1{
     position: absolute;
-    margin-top: 40px;
-    left: 1200px;
+    margin-top: 160px;
+    left: 260px;
     width: 250px;
     height: 60px;
     background-color: rgb(40, 71, 107);
 }
 .CelectNot2{
     position: absolute;
-    margin-top: -160px;
-    left: 1200px;
+    margin-top: 160px;
+    left: 1100px;
     width: 250px;
     height: 60px;
     background-color: rgb(40, 71, 107);
