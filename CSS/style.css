@@ -109,11 +109,20 @@
     height: 60px;
     background-color: rgb(40, 71, 107);
 }
-.CelectNot{
+.CelectNot1{
     position: absolute;
-    margin-top: -60px;
+    margin-top: 40px;
     left: 1200px;
     width: 250px;
     height: 60px;
     background-color: rgb(40, 71, 107);
 }
+.CelectNot2{
+    position: absolute;
+    margin-top: -160px;
+    left: 1200px;
+    width: 250px;
+    height: 60px;
+    background-color: rgb(40, 71, 107);
+}
+
